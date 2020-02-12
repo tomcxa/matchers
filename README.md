@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/aj0ejddde7441ch6?svg=true)](https://ci.appveyor.com/project/tomcxa/matchers)
